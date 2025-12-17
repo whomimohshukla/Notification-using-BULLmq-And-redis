@@ -1,4 +1,3 @@
-
 // import { notificationQueue } from "../queues/notification.queue.js";
 import { notificationQueue } from "../queue/notification.queue";
 type EmailPayload = {
